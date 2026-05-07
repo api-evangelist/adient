@@ -17,6 +17,12 @@ apis: []
 common:
   - type: Website
     url: https://www.adient.com/
+  - type: Plans
+    url: plans/adient-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/adient-rate-limits.yml
+  - type: FinOps
+    url: finops/adient-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
