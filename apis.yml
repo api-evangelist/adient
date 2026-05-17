@@ -1,7 +1,7 @@
 aid: adient
 url: https://raw.githubusercontent.com/api-evangelist/adient/refs/heads/main/apis.yml
 name: Adient
-x-type: company
+kind: company
 description: >-
   Adient is a global automotive seating supplier headquartered in Plymouth, Michigan. Spun off from Johnson Controls in 2016, Adient designs and manufactures seating systems for global automakers across passenger and commercial vehicles.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
