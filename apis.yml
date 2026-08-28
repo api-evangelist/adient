@@ -4,6 +4,17 @@ name: Adient
 kind: company
 description: >-
   Adient is a global automotive seating supplier headquartered in Plymouth, Michigan. Spun off from Johnson Controls in 2016, Adient designs and manufactures seating systems for global automakers across passenger and commercial vehicles.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
